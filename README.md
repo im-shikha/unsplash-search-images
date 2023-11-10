@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Search Images App using React + Vite
 
-Currently, two official plugins are available:
+- Using Unsplash API for dynamic images search using tags and display.
+- Using Axios library to send asynchronous HTTP requests.
+- Using ESLint for analyzing code for potential errors, enforcing coding standards while improving code quality.
+- Implementing Pagination in React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-![Unsplash](./src/assets/unsplash1.png)
